@@ -1,2 +1,3 @@
 # PeachParty-Game
-OOP Program - Fully Functional Adaptation of Mario Party Game
+Fully Functional Adaptation of Mario Party Game 
+Employing Object-Oriented Programming, Abstraction, Inheritance, and Polymorphism
